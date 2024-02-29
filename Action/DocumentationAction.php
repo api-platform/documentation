@@ -32,6 +32,8 @@ use Symfony\Component\HttpFoundation\Response;
 /**
  * Generates the API documentation.
  *
+ * @deprecated use ApiPlatform\Symfony\DocumentationAction instead
+ *
  * @author Amrouche Hamza <hamza.simperfit@gmail.com>
  */
 final class DocumentationAction
